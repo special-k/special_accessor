@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "special_accessor"
   gem.homepage = "http://github.com/special-k/special_accessor"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ metaprogramming method generator }
+  gem.description = %Q{ metaprogramming method generator: default params, proxy access }
   gem.email = "special-k@li.ru"
   gem.authors = ["Kirill Jakovlev"]
   # dependencies defined in Gemfile
