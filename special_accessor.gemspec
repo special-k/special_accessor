@@ -7,10 +7,6 @@ Gem::Specification.new do |s|
   s.date = "2013-07-12"
   s.description = "metaprogramming method generator: default params, proxy access "
   s.email = "special-k@li.ru"
-  s.extra_rdoc_files = [
-    "LICENSE.txt",
-    "README.rdoc"
-  ]
   s.files = Dir['README', 'LICENSE.txt', 'lib/**/*', 'bin/**/*']
   s.homepage = "http://github.com/special-k/special_accessor"
   s.licenses = ["MIT"]
